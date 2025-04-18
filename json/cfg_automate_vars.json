@@ -1,5 +1,4 @@
 {
-    "alert_threshold": 5,
-    "location_area": 1234,
+    "detections": [11608, 16363, 12104],
     "enabled": true
   }
