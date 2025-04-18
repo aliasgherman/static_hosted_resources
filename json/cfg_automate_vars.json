@@ -1,0 +1,5 @@
+{
+    "alert_threshold": 5,
+    "location_area": 1234,
+    "enabled": true
+  }
