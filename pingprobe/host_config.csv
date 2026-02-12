@@ -1,0 +1,66 @@
+test_type:str,ipaddress:str,name:str,quantity:int,size:int,comments:str,cycles:int
+tcphandshake,www.hukoomi.gov.qa/en/,https://hukoomi.gov.qa/en/,1,1,,5
+tcphandshake,www.google.com,https://www.google.com,1,1,,5
+tcphandshake,www.netflix.com,https://www.netflix.com,1,1,,5
+tcphandshake,www.instagram.com,https://www.instagram.com,1,1,,5
+tcphandshake,www.facebook.com,https://www.facebook.com,1,1,,5
+tcphandshake,www.cloudflare.com,https://www.cloudflare.com,1,1,,5
+tcphandshake,www.youtube.com,https://www.youtube.com,1,1,,5
+tcphandshake,www.snapchat.com,https://www.snapchat.com,1,1,,5
+tcphandshake,www.tiktok.com,https://www.tiktok.com,1,1,,5
+tcphandshake,www.linkedin.com,https://www.linkedin.com,1,1,,5
+tcphandshake,www.twitter.com,https://www.twitter.com,1,1,,5
+tcphandshake,www.x.com,https://www.x.com,1,1,,5
+tcphandshake,www.orange.ro,https://www.orange.ro,1,1,,5
+tcphandshake,www.talktalk.co.uk,https://www.talktalk.co.uk,1,1,,5
+tcphandshake,www.ifpi.org,https://www.ifpi.org,1,1,,5
+tcphandshake,www.cachefly.cachefly.net,https://cachefly.cachefly.net,1,1,,5
+tcphandshake,www.scaleway.testdebit.info,https://scaleway.testdebit.info,1,1,,5
+ping,8.8.8.8,Google DNS,5,64,Google DNS To check connectivity.,2
+ping,52.222.9.163,us-gov-west,5,450,PUBG AWS Servers.,2
+ping,52.60.50.0,ca-central-1,5,450,PUBG AWS Servers.,2
+ping,52.56.34.0,eu-west-2,5,450,PUBG AWS Servers.,2
+ping,192.168.1.1,192.168.1.1,5,450,,2
+ping,10.64.0.1,10.64.0.1,5,450,,2
+ping,8.8.8.8,8.8.8.8,5,450,,2
+ping,google.com,google.com,5,450,,2
+ping,109.166.184.23,109.166.184.23,5,450,,2
+ping,159.60.150.46,159.60.150.46,5,450,,2
+ping,40.120.57.246,40.120.57.246,5,450,,2
+ping,2a00:1450:4018:80c::200e,2a00:1450:4018:80c::200e,5,450,,2
+ping,2a04:7f80:0:8::d,2a04:7f80:0:8::d,5,450,,2
+ping,2a04:7f80:0:8::1d,2a04:7f80:0:8::1d,5,450,,2
+ping,speed.cloudflare.com,speed.cloudflare.com,5,450,,2
+ping,cachefly.cachefly.net,cachefly.cachefly.net,5,450,,2
+ping,scaleway.testdebit.info,scaleway.testdebit.info,5,450,,2
+webbrowsing,https://hukoomi.gov.qa/en/,https://hukoomi.gov.qa/en/,-1,-1,,5
+webbrowsing,https://moi.gov.qa,https://moi.gov.qa,-1,-1,MOI qatar,5
+webbrowsing,https://qatarliving.com,https://qatarliving.com,-1,-1,qatarliving,5
+webbrowsing,https://www.iloveqatar.net/,https://www.iloveqatar.net/,-1,-1,iloveqatar,5
+webbrowsing,https://www.google.com,https://www.google.com,-1,-1,,5
+webbrowsing,https://www.netflix.com,https://www.netflix.com,-1,-1,,5
+webbrowsing,https://www.instagram.com,https://www.instagram.com,-1,-1,,5
+webbrowsing,https://www.facebook.com,https://www.facebook.com,-1,-1,,5
+webbrowsing,https://www.cloudflare.com,https://www.cloudflare.com,-1,-1,,5
+webbrowsing,https://www.youtube.com,https://www.youtube.com,-1,-1,,5
+webbrowsing,https://www.snapchat.com,https://www.snapchat.com,-1,-1,,5
+webbrowsing,https://www.tiktok.com,https://www.tiktok.com,-1,-1,,5
+webbrowsing,https://www.linkedin.com,https://www.linkedin.com,-1,-1,,5
+webbrowsing,https://www.twitter.com,https://www.twitter.com,-1,-1,,5
+webbrowsing,https://www.x.com,https://www.x.com,-1,-1,,5
+webbrowsing,https://www.orange.ro,https://www.orange.ro,-1,-1,,5
+webbrowsing,https://www.talktalk.co.uk,https://www.talktalk.co.uk,-1,-1,,5
+webbrowsing,https://www.ifpi.org,https://www.ifpi.org,-1,-1,,5
+webbrowsing,https://speed.cloudflare.com,https://speed.cloudflare.com,-1,-1,,5
+webbrowsing,https://cachefly.cachefly.net,https://cachefly.cachefly.net,-1,-1,,5
+webbrowsing,https://scaleway.testdebit.info,https://scaleway.testdebit.info,-1,-1,,5
+webbrowsing,https://speed.cloudflare.com/__down?bytes=10000000,cloud,-1,-1,10MB from cloudflare,3
+webbrowsing,https://cachefly.cachefly.net/10mb.test,https://cachefly.cachefly.net/10mb.test,-1,-1,10MB from cachefly,3
+tcppressure,142.251.38.36,142.251.38.36,150,-1,port pressure,1
+tcppressure,142.251.38.36,142.251.38.36,150,-1,port pressure,1
+tcppressure,2a00:1450:4018:812::2004,142.251.38.36,150,-1,port pressure,1
+tcppressure,104.16.123.96,142.251.38.36,150,-1,port pressure,1
+tcppressure,2606:4700::6810:7b60,142.251.38.36,150,-1,port pressure,1
+tcppressure,95.100.170.41,142.251.38.36,150,-1,port pressure,1
+tcppressure,34.149.46.130,142.251.38.36,150,-1,port pressure,1
+idle,-1,-1,-1,-1,Remain idle for some time,10
