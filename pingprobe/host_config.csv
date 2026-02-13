@@ -1,5 +1,5 @@
 test_type:str,ipaddress:str,name:str,quantity:int,size:int,comments:str,cycles:int
-tcphandshake,www.hukoomi.gov.qa/en/,https://hukoomi.gov.qa/en/,1,1,,5
+tcphandshake,www.hukoomi.gov.qa,https://hukoomi.gov.qa/en/,1,1,,5
 tcphandshake,www.google.com,https://www.google.com,1,1,,5
 tcphandshake,www.netflix.com,https://www.netflix.com,1,1,,5
 tcphandshake,www.instagram.com,https://www.instagram.com,1,1,,5
