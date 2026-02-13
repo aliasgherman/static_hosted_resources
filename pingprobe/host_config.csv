@@ -54,9 +54,11 @@ webbrowsing,https://www.ifpi.org,https://www.ifpi.org,-1,-1,,5
 webbrowsing,https://speed.cloudflare.com,https://speed.cloudflare.com,-1,-1,,5
 webbrowsing,https://cachefly.cachefly.net,https://cachefly.cachefly.net,-1,-1,,5
 webbrowsing,https://scaleway.testdebit.info,https://scaleway.testdebit.info,-1,-1,,5
+idle,-1,-1,-1,-1,Remain idle for some time,5
 filedl,https://speed.cloudflare.com/__down?bytes=10000000,cloud,-1,-1,10MB from cloudflare,1
 filedl,https://cachefly.cachefly.net/10mb.test,https://cachefly.cachefly.net/10mb.test,-1,-1,10MB from cachefly,1
 filedl,https://scaleway.testdebit.info/10M.iso,https://scaleway.testdebit.info/10M.iso,-1,-1,10MB from testdebit,1
+idle,-1,-1,-1,-1,Remain idle for some time,60
 filedl,https://speed.cloudflare.com/__down?bytes=15000000,cloudflare,-1,-1,10MB from cloudflare,1
 filedl,https://cachefly.cachefly.net/15mb.test,https://cachefly.cachefly.net/15mb.test,-1,-1,10MB from cachefly,1
 filedl,https://scaleway.testdebit.info/15M.iso,https://scaleway.testdebit.info/15M.iso,-1,-1,10MB from testdebit,1
